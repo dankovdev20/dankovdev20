@@ -33,3 +33,6 @@
 
 ### Get in touch
 - (In Progress...) 
+
+
+// Notes for myself: update links in README and profile (insta), buy domain .dev
