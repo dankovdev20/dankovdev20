@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**dankodev20/dankodev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`~/ I'm danko-dev, a Web Developer based in Poland`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:chernenkodanyildev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <br />
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Website-danko.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+---
+
+- 🎓 **Student** (INF.03 / INF.04)  
+- 📍 **Location:** Wrocław, Poland  
+- ⚡️ **Focus:** Next.js, React, TypeScript, Django  
+
+---
+
+### 🔧 Skills & Tools
+- **Languages:** TypeScript, JavaScript, Python, HTML5, CSS3, SQL
+- **Frameworks & Libs:** Next.js, React, Django, Tailwind CSS, Framer Motion
+- **Tooling:** Git, GitHub, VS Code, npm/bun, Postman
+
+---
+
+### Quick Highlights
+- Passionate about clean code & rational functionality.
+- Always building new projects to learn something new & sharpen full-stack capabilities.
+
+### Get in touch
+- (In Progress...) 
