@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-`~/ I'm danko-dev, a Web Developer based in Poland`
+`~/ I'm dankov-dev, a Web Developer based in Poland`
 
 ---
 
@@ -9,7 +9,7 @@
   <a href="https://instagram.com/#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:chernenkodanyildev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <br />
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Website-danko.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Website-dankov.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
