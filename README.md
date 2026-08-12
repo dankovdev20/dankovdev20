@@ -31,8 +31,8 @@
 - Passionate about clean code & rational functionality.
 - Always building new projects to learn something new & sharpen full-stack capabilities.
 
-### Get in touch
-- (In Progress...) 
+### 🔨 Work in progress
+- Interactive portfolio on Vercel.
 
 
 // Notes for myself: update links in README and profile (insta), buy domain .dev
