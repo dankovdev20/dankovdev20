@@ -33,6 +33,3 @@
 
 ### 🔨 Work in progress
 - Interactive portfolio on Vercel.
-
-
-// Notes for myself: buy domain .dev
