@@ -9,14 +9,14 @@
   <a href="https://instagram.com/#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:chernenkodanyildev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <br />
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Website-dankov.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Website-WIP-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
 
 - 🎓 **Student** (INF.03 / INF.04)  
 - 📍 **Location:** Wrocław, Poland  
-- ⚡️ **Focus:** Next.js, React, TypeScript, Django  
+- ⚡️ **Focus:** Next.js, TypeScript, learning FastAPI
 
 ---
 
