@@ -35,4 +35,4 @@
 - Interactive portfolio on Vercel.
 
 
-// Notes for myself: update links in README and profile (insta), buy domain .dev
+// Notes for myself: buy domain .dev
