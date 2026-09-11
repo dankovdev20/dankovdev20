@@ -15,7 +15,6 @@
 ---
 
 - **Student** (INF.03 / INF.04)  
-- **Location:** Wrocław, Poland  
 - **Focus:** Next.js, TypeScript, learning FastAPI
 
 ---
