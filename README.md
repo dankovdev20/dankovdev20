@@ -7,16 +7,16 @@
 <p align="center">
   <a href="https://linkedin.com/in/dankovdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/dankovdev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:chernenkodanyildev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <br />
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Website-WIP-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
 
-- 🎓 **Student** (INF.03 / INF.04)  
-- 📍 **Location:** Wrocław, Poland  
-- ⚡️ **Focus:** Next.js, TypeScript, learning FastAPI
+- **Student** (INF.03 / INF.04)  
+- **Location:** Wrocław, Poland  
+- **Focus:** Next.js, TypeScript, learning FastAPI
 
 ---
 
