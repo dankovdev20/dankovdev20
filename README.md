@@ -27,9 +27,5 @@
 
 ---
 
-### 📁 Quick Highlights
-- Passionate about clean code & rational functionality.
-- Always building new projects to learn something new & sharpen full-stack capabilities.
-
 ### 🔨 Work in progress
 - Interactive portfolio on Vercel.
